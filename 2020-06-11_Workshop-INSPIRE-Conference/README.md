@@ -8,7 +8,7 @@ The materials include:
 * a presentation focused on:
   * the comparison between OpenStreetMap and INSPIRE
   * a step-by-step exercise in QGIS on the integration between Addresses datasets from OpenStreetMap and INSPIRE
-* a [sub-folder](./2020-06-11_Workshop-INSPIRE-Conference/step-by-step-exercise) with the materials for the step-by-step exercise in QGIS, comprised of:
+* a [sub-folder](./step-by-step-exercise) with the materials for the step-by-step exercise in QGIS, comprised of:
   * datasets (input datasets and datasets generated during the exercise)
   * QGIS Processing Modeler files
   * QGIS project file
