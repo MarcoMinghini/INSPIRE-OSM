@@ -1,0 +1,11 @@
+<osm-script output="xml" timeout="25">
+    <id-query {{geocodeArea:Biella}} into="area_0"/>
+
+        <query type="node">
+            <has-kv k="addr:housenumber"/>
+            <has-kv k="addr:street"/>
+            <area-query from="area_0"/>
+        </query>
+
+    <print mode="body"/>
+</osm-script>
