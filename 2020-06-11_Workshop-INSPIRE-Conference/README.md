@@ -7,11 +7,12 @@ This folder includes the materials of the workshop "OpenStreetMap and its synerg
 The materials include:
 * a [presentation](./presentation_OSM-INSPIRE.pdf) focused on:
   * the comparison between OpenStreetMap and INSPIRE
-  * a step-by-step exercise in QGIS on the integration between Addresses datasets from OpenStreetMap and INSPIRE
+  * a step-by-step exercise in [QGIS](https://www.qgis.org) on the integration between Addresses datasets from OpenStreetMap and INSPIRE
 * a [sub-folder](./step-by-step-exercise) with the materials for the step-by-step exercise in QGIS, comprised of:
   * datasets (input datasets and datasets generated during the exercise)
   * QGIS Processing Modeler files
   * QGIS project file
+* the [results](./poll-results_slido_OSM-INSPIRE.pdf) of the questions poll with the workshop participants, which was run using [slido](https://www.sli.do/)
 
 ## References
 
