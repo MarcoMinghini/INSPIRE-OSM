@@ -1,4 +1,4 @@
-# Integration between OpenStreetMap and authoritative geospatial datasets
+# Integration between OpenStreetMap and authoritative geospatial datasets in the EU
 
 This repository includes ideas, materials, datasets and processing workflows about the comparison and integration between OpenStreetMap and authoritative geospatial datasets provided by national mapping agencies in the European Union. It currently includes:
 
